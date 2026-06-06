@@ -8,7 +8,7 @@ __pycache__/
 data/
 runs/
 reports/
-rapor_icin_cekilecek_gorseller/
+
 
 *.zip
 *.tar
