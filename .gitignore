@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+.pytest_cache/
+.pytest_tmp/
+
+data/
+runs/
+reports/
+rapor_icin_cekilecek_gorseller/
+
+*.zip
+*.tar
+*.tar.gz
+*.7z
+~$*.docx
